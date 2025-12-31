@@ -16,7 +16,7 @@ const presentation: Presentation = {
   title: "Akshat Giri",
   // profile: "/profile.webp",
   description:
-    "I'm a vessel for the programming gods to whisper to computers in this mortal world. Currently teaching rocks to be humans.",
+    "Programmer, working on returning $70B back to Americans.",
   socials: [
     {
       label: "X",
